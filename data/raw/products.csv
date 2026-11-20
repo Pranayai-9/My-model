@@ -1,0 +1,21 @@
+product_id,product_name,category_id,category_name,sub_category,brand_tier,unit_of_measure,cost_price,base_mrp,base_selling_price,margin_pct,shelf_life_days,storage_type,velocity_class,reorder_point,reorder_quantity,lead_time_days
+P001,Raw Rice (1 kg),C001,"Grains, Flours & Pulses",Rice & Grains,Popular,kg,54.0,65.0,63.0,16.67,180,Ambient Dry,Fast,25,60,2
+P002,Whole Wheat Atta (5 kg),C001,"Grains, Flours & Pulses",Flours,Popular,bag (5kg),208.0,240.0,235.0,12.98,90,Ambient Dry,Medium,12,30,2
+P003,Toor Dal (1 kg),C001,"Grains, Flours & Pulses",Pulses,Mass,kg,138.0,160.0,155.0,12.32,180,Ambient Dry,Fast,18,45,2
+P004,Poha (500 g),C001,"Grains, Flours & Pulses",Breakfast Staples,Mass,packet (500g),36.0,45.0,44.0,22.22,120,Ambient Dry,Medium,14,35,3
+P005,Sunflower Oil (1 L),C002,"Oils, Dairy & Sweeteners",Edible Oils,Popular,pouch (1L),126.0,145.0,140.0,11.11,180,Ambient Dry,Fast,22,50,2
+P006,White Sugar (1 kg),C002,"Oils, Dairy & Sweeteners",Sweeteners,Mass,kg,40.5,48.0,46.0,13.58,365,Ambient Dry,Fast,30,75,2
+P007,Milk Pouch (500 ml),C002,"Oils, Dairy & Sweeteners",Dairy,Popular,pouch (500ml),27.5,30.0,30.0,9.09,2,Refrigerated,Fast,15,55,1
+P008,Turmeric Powder (100 g),C003,Spices & Condiments,Ground Spices,Popular,packet (100g),26.0,35.0,34.0,30.77,365,Ambient Dry,Medium,10,25,3
+P009,Red Chilli Powder (100 g),C003,Spices & Condiments,Ground Spices,Popular,packet (100g),34.0,45.0,44.0,29.41,365,Ambient Dry,Medium,12,30,3
+P010,Cumin Seeds / Jeera (100 g),C003,Spices & Condiments,Whole Spices,Mass,packet (100g),48.0,65.0,62.0,29.17,365,Ambient Dry,Slow,8,20,4
+P011,Tea Leaves (250 g),C004,Packaged Foods & Beverages,Hot Beverages,Popular,carton (250g),98.0,120.0,118.0,20.41,365,Ambient Dry,Fast,18,45,2
+P012,Glucose Biscuits (100 g),C004,Packaged Foods & Beverages,Biscuits & Cookies,Mass,packet (100g),8.4,10.0,10.0,19.05,180,Ambient Dry,Fast,50,120,2
+P013,Instant Noodles (70 g),C004,Packaged Foods & Beverages,Ready-to-Cook,Popular,packet (70g),11.8,14.0,14.0,18.64,240,Ambient Dry,Fast,35,80,2
+P014,Potato Chips (52 g),C004,Packaged Foods & Beverages,Salty Snacks,Popular,bag (52g),16.5,20.0,20.0,21.21,120,Ambient Dry,Fast,25,60,2
+P015,Bathing Soap (100 g),C005,Personal Care & Hygiene,Soaps & Body Wash,Popular,bar (100g),32.5,40.0,38.0,16.92,730,Ambient Dry,Medium,16,40,3
+P016,Shampoo Sachet (6 ml),C005,Personal Care & Hygiene,Hair Care,Mass,sachet (6ml),2.2,3.0,3.0,36.36,730,Ambient Dry,Fast,60,150,2
+P017,Toothpaste (100 g),C005,Personal Care & Hygiene,Oral Care,Popular,tube (100g),48.0,60.0,58.0,20.83,730,Ambient Dry,Slow,10,25,3
+P018,Detergent Powder (1 kg),C006,Household Cleaning & Essentials,Laundry,Popular,packet (1kg),90.0,110.0,105.0,16.67,730,Ambient Dry,Medium,14,35,3
+P019,Dishwashing Bar (200 g),C006,Household Cleaning & Essentials,Dish Care,Mass,bar (200g),16.0,20.0,20.0,25.0,730,Ambient Dry,Fast,25,60,2
+P020,Floor Cleaner (500 ml),C006,Household Cleaning & Essentials,Surface Care,Popular,bottle (500ml),76.0,95.0,92.0,21.05,730,Ambient Dry,Slow,8,20,4

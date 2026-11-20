@@ -1,0 +1,7 @@
+category_id,category_name,description,avg_shelf_life_days,margin_percentage,storage_requirement
+C001,"Grains, Flours & Pulses","Essential dietary staples including raw rice, wheat flour, lentils, and beaten rice.",180,14.5,Ambient Dry Storage
+C002,"Oils, Dairy & Sweeteners","Cooking oils, dairy milk pouches, and refined sweeteners.",60,10.2,"Mixed (Chilled for dairy, Ambient for oils/sugar)"
+C003,Spices & Condiments,Ground spices and whole seeds used daily in Indian cooking.,365,22.0,Ambient Dry Storage (Airtight)
+C004,Packaged Foods & Beverages,"Tea, biscuits, instant noodles, and packaged snacks for quick consumption.",120,16.5,Ambient Shelf Display
+C005,Personal Care & Hygiene,"Personal hygiene essentials such as toilet soaps, shampoo sachets, and toothpaste.",540,18.0,Ambient Shelf Display
+C006,Household Cleaning & Essentials,"Cleaning agents including laundry detergent, dishwashing bars, and surface disinfectants.",365,17.5,Ambient Storage (Away from food items)
