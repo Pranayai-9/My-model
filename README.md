@@ -1,0 +1,1 @@
+A demand forecasting model built for indian MSME kirana stock houses for battling overstocking of slow-moving objects and understocking of fast-moving objects by training on historical sales, seasonal effects, inventory tracking and demand-supply optimized analysis
